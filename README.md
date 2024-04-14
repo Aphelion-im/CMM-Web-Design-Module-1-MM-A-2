@@ -8,7 +8,7 @@
 ## Opmerkingen
 * Voor deze opdracht was responsive web design, door middel van media queries, niet vereist.
 * Het design van deze opdracht heb ik zelf ontworpen. Eigen kleuren, eigen fonts, etc. en deze daarna naar code omgezet.
-* De website is gebouwd met HTML 5, CSS 3 en JavaScript.
+* De website is gebouwd met HTML 5 en CSS 3.
 
 [Bekijk de live demo](https://cmm-web-design-module-1-mm-a-2.netlify.app)
 
